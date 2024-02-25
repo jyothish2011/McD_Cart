@@ -1,0 +1,19 @@
+.hero {
+    background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.5) 100%),url('https://dev-restaurant.eezzypos.com/1-1-O10cFQPzqbol2HLK7PXK.png');
+    background-size: cover;
+    background-position: center;
+    height: 420px;
+}
+
+.sticky-class{
+    position: sticky;
+    top:500px
+}
+.img-container {
+    overflow: hidden;
+    transition: transform 0.3s;
+  }
+
+  .img-container:hover {
+    transform: scale(1.1);
+  }

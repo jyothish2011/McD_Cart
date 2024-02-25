@@ -1,0 +1,251 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Soup Delights",
+            "sub_categories": [
+                {
+                    "sub_cat_id": 7,
+                    "sub_cat_name": "Veg Soup",
+                    "product": [
+                        {
+                            "product_id": 95,
+                            "variation_name": "Clear Veg Soup",
+                            "price": "11.00"
+                        },
+                        {
+                            "product_id": 94,
+                            "variation_name": "Hot & Sour Mushroom Soup",
+                            "price": "31.00"
+                        },
+                        {
+                            "product_id": 75,
+                            "variation_name": "Hot & Sour Veg Soup",
+                            "price": "10.00"
+                        }
+                    ]
+                },
+                {
+                    "sub_cat_id": 88,
+                    "sub_cat_name": "Non Veg Soup",
+                    "product": [
+                        {
+                            "product_id": 905,
+                            "variation_name": "Clear Soup Of Chicken                            ",
+                            "price": "110.00"
+                        },
+                        {
+                            "product_id": 943,
+                            "variation_name": "Generic",
+                            "price": "321.00"
+                        },
+                        {
+                            "product_id": 175,
+                            "variation_name": "Hot & Sour Chicken",
+                            "price": "100.00"
+                        },
+                        {
+                            "product_id": 12,
+                            "variation_name": "Lungfung Chicken Soup",
+                            "price": "200.00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Meals & Parotta",
+            "sub_categories": [
+                {
+                    "sub_cat_id": 77,
+                    "sub_cat_name": "Kothu Parotta",
+                    "product": [
+                        {
+                            "product_id": 95,
+                            "variation_name": "Chicken Kothu Parrota",
+                            "price": "131.00"
+                        }
+                    ]
+                },
+                {
+                    "sub_cat_id": 88,
+                    "sub_cat_name": "Chicken Gravy",
+                    "product": [
+                        {
+                            "product_id": 925,
+                            "variation_name": "Chicken Aloo Masala",
+                            "price": "90.00"
+                        },
+                        {
+                            "product_id": 363,
+                            "variation_name": "Chicken Boneless Chettinad Masala",
+                            "price": "100.00"
+                        },
+                        {
+                            "product_id": 175,
+                            "variation_name": "Chicken Boneless Masala",
+                            "price": "100.00"
+                        },
+                        {
+                            "product_id": 120,
+                            "variation_name": "Chicken Chettinadu Masala",
+                            "price": "110.00"
+                        },
+                        {
+                            "product_id": 555,
+                            "variation_name": "Chicken Manchurian Gravy",
+                            "price": "120.00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Grills Rolls & Tandoori",
+            "sub_categories": [
+                {
+                    "sub_cat_id": 65,
+                    "sub_cat_name": "Fish Tandoor",
+                    "product": [
+                        {
+                            "product_id": 33,
+                            "variation_name": "Fish Garlic Kebab",
+                            "price": "200.00"
+                        },
+                        {
+                            "product_id": 133,
+                            "variation_name": "Fish Hariyali Kebab",
+                            "price": "220.00"
+                        },
+                        {
+                            "product_id": 333,
+                            "variation_name": "Fish Malai Tikka",
+                            "price": "250.00"
+                        }
+                    ]
+                },
+                {
+                    "sub_cat_id": 888,
+                    "sub_cat_name": "Non Veg Bombay Roll",
+                    "product": [
+                        {
+                            "product_id": 68,
+                            "variation_name": "Butter Rotti",
+                            "price": "190.00"
+                        },
+                        {
+                            "product_id": 628,
+                            "variation_name": "Fish Arabian Roll",
+                            "price": "170.00"
+                        },
+                        {
+                            "product_id": 8,
+                            "variation_name": "Fish Garlic Malai Roll",
+                            "price": "140.00"
+                        },
+                        {
+                            "product_id": 118,
+                            "variation_name": "Fish Hariyali Roll",
+                            "price": "200.00"
+                        },
+                        {
+                            "product_id": 110,
+                            "variation_name": "Fish Malai Roll",
+                            "price": "200.00"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Breads & Starters",
+            "sub_categories": [
+                {
+                    "sub_cat_id": 655,
+                    "sub_cat_name": "Chicken Starters",
+                    "product": [
+                        {
+                            "product_id": 633,
+                            "variation_name": "Chicken 65",
+                            "price": "50.00"
+                        }
+                    ]
+                },
+                {
+                    "sub_cat_id": 838,
+                    "sub_cat_name": "Indian Breads",
+                    "product": [
+                        {
+                            "product_id": 48,
+                            "variation_name": "Butter Kulcha",
+                            "price": "80.00"
+                        },
+                        {
+                            "product_id": 62,
+                            "variation_name": "Butter Naan",
+                            "price": "70.00"
+                        },
+                        {
+                            "product_id": 28,
+                            "variation_name": "Chappathi",
+                            "price": "40.00"
+                        }
+                    ]
+                }
+            ]
+            
+        },
+        {
+            "id": 5,
+            "name": "Biryani Fried Rice & Noodles",
+            "sub_categories": [
+                {
+                    "sub_cat_id": 90,
+                    "sub_cat_name": "Veg Noodles",
+                    "product": [
+                        {
+                            "product_id": 613,
+                            "variation_name": "Gobi Noodles",
+                            "price": "100.00"
+                        },
+                        {
+                            "product_id": 611,
+                            "variation_name": "Mixed Noodles",
+                            "price": "120.00"
+                        }
+                    ]
+                },
+                {
+                    "sub_cat_id": 252,
+                    "sub_cat_name": "Veg Fried Rice",
+                    "product": [
+                        {
+                            "product_id": 448,
+                            "variation_name": "Gobi Fried Rice",
+                            "price": "90.00"
+                        },
+                        {
+                            "product_id": 62,
+                            "variation_name": "Mixed Fried Rice",
+                            "price": "120.00"
+                        }
+                    ]
+                },
+                {
+                    "sub_cat_id": 25,
+                    "sub_cat_name": "Biriyanis",
+                    "product": [
+                        {
+                            "product_id": 748,
+                            "variation_name": "Fish Spl Biriyani",
+                            "price": "180.00"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
